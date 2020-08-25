@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("SwiftUI and facebook2.0")
+        Text("SwiftUI and facebook5.0")
         
     }
 }
